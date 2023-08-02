@@ -11,7 +11,7 @@
 
 
 
-- **Frontend**: JS, TypeScript, React, Redux (Thunk, Toolkit), HTML5, CSS3, Material UI, Ant Design
+- **Frontend**: JS, TypeScript, React, Redux (Thunk, Toolkit), HTML5, CSS3, Material UI
 - **Backend**: Node.js, Express, Sessions, CORS, WebSockets
 - **Databases**: PostgreSQL, Sequelize ORM
 
