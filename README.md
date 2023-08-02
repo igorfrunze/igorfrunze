@@ -6,8 +6,7 @@
 
 
 
-- 📫 How to reach me: **igor_frunze@live.com**
-- 
+- 📫 How to reach me: **igor_frunze@live.com** 
 <h3 align="left">Languages and Tools:</h3>
 
 
